@@ -23,6 +23,9 @@ public class Ejemplo01 {
         do {
             contador = contador + 1;
         } while (contador <= 10);
+        System.out.printf("%d\n",contador);
+        contador = contador +1;
+        
     }
 
 }
